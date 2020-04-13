@@ -1,0 +1,8 @@
+{
+  "name": "ymn",
+  "author": "Stephen Handley",
+  "version": "1.0.0",
+  "description": "yes maybe no",
+  "main": "index.js",
+  "license": "MIT"
+}
